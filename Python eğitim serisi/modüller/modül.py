@@ -1,0 +1,4 @@
+
+sayılar = {
+    "isim": "bir"
+}
